@@ -1,0 +1,11 @@
+0
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?name ?eMail ?course 
+WHERE {  
+?x ub:name ?name.
+?x ub:takesCourse ?course.
+?x ub:emailAddress ?eMail.
+?x rdf:type ub:UndergraduateStudent.
+}

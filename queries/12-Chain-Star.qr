@@ -1,0 +1,18 @@
+0
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?name ?unv0 ?unv1 ?unv2 ?int ?publication ?course2  ?course 
+WHERE { 
+?publication ub:publicationAuthor ?author.
+?author rdf:type ub:AssociateProfessor.
+?author ub:name ?name.
+?author ub:undergraduateDegreeFrom ?unv0.
+?author ub:mastersDegreeFrom ?unv1.
+?author ub:doctoralDegreeFrom ?unv2.
+?author ub:researchInterest ?int.
+?professor ub:teacherOf ?course.
+?student ub:takesCourse ?course.
+?student ub:teachingAssistantOf ?course2.
+?professor2 ub:teacherOf ?course2.
+?publication ub:publicationAuthor ?professor2.}

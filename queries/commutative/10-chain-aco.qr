@@ -1,0 +1,18 @@
+896
+PREFIX ub: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT  ?teacher ?dept ?course ?adv ?uName
+WHERE
+{ 
+	?unv ub:name ?uName.
+	?adv ub:doctoralDegreeFrom ?unv .
+	?tAsst ub:advisor ?adv .
+	?tAsst ub:teachingAssistantOf ?course .
+	?student ub:takesCourse ?course .
+	?student ub:memberOf ?dept .
+	?teacher ub:worksFor ?dept .
+	?teacher rdf:type ?fac .
+	?fac rdfs:subClassOf ?faculty .
+	?faculty rdfs:subClassOf ub:Faculty .
+}

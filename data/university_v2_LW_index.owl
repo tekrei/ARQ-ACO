@@ -1,0 +1,2160 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://jena.hpl.hp.com/ARQo#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#" > 
+  <rdf:Description rdf:nodeID="A0">
+    <j.0:frequency>490</j.0:frequency>
+    <j.0:lowerBound>-7442403.0</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <j.0:frequency>225</j.0:frequency>
+    <j.0:lowerBound>1.8268506E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <j.0:classes rdf:nodeID="A3"/>
+    <j.0:classSize>4.095400273E8</j.0:classSize>
+    <j.0:upperBound>2.120326604E9</j.0:upperBound>
+    <j.0:lowerBound>-1.975073669E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <j.0:frequency>313</j.0:frequency>
+    <j.0:lowerBound>-1.4803076478E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <j.0:frequency>23362</j.0:frequency>
+    <j.0:lowerBound>1.7129871926E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <j.0:frequency>13688</j.0:frequency>
+    <j.0:lowerBound>1.665007578E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <j.0:histogram rdf:nodeID="A8"/>
+    <j.0:frequency>3016</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#subOrganizationOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <j.0:frequency>9251</j.0:frequency>
+    <j.0:lowerBound>1.3012465494E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <j.0:frequency>4481</j.0:frequency>
+    <j.0:lowerBound>8.537695762000003E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <rdf:_9 rdf:nodeID="A12"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_4 rdf:nodeID="A13"/>
+    <rdf:_7 rdf:nodeID="A14"/>
+    <rdf:_3 rdf:nodeID="A15"/>
+    <rdf:_6 rdf:nodeID="A16"/>
+    <rdf:_8 rdf:nodeID="A17"/>
+    <rdf:_10 rdf:nodeID="A18"/>
+    <rdf:_1 rdf:nodeID="A19"/>
+    <rdf:_2 rdf:nodeID="A20"/>
+    <rdf:_5 rdf:nodeID="A21"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A22">
+    <j.0:frequency>1</j.0:frequency>
+    <j.0:lowerBound>5.85531982E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A23">
+    <j.0:frequency>7362</j.0:frequency>
+    <j.0:lowerBound>-1.861906525E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A24">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-4.15649025E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A25">
+    <j.0:frequency>683</j.0:frequency>
+    <j.0:lowerBound>-1.713643563E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A26">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>8.595998308E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A27">
+    <j.0:histogram rdf:nodeID="A2"/>
+    <j.0:frequency>219961</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A28">
+    <j.0:frequency>166</j.0:frequency>
+    <j.0:lowerBound>-3.93416262E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A29">
+    <j.0:frequency>632</j.0:frequency>
+    <j.0:lowerBound>8.092856154000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A30">
+    <j.0:frequency>6070</j.0:frequency>
+    <j.0:lowerBound>-1.628470566E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A31">
+    <j.0:histogram rdf:nodeID="A32"/>
+    <j.0:frequency>106409</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#emailAddress"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A33">
+    <j.0:frequency>26952</j.0:frequency>
+    <j.0:lowerBound>-2676225.0</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A34">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A35">
+    <j.0:histogram rdf:nodeID="A36"/>
+    <j.0:frequency>5715</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#researchInterest"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A37">
+    <j.0:frequency>12837</j.0:frequency>
+    <j.0:lowerBound>-1.216785798E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A38">
+    <j.0:classes rdf:nodeID="A11"/>
+    <j.0:classSize>3.304152222E8</j.0:classSize>
+    <j.0:upperBound>1.485610738E9</j.0:upperBound>
+    <j.0:lowerBound>-1.818541484E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A39">
+    <j.0:frequency>1493</j.0:frequency>
+    <j.0:lowerBound>-3.3551101620000005E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A40">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>7.910828686E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A41">
+    <j.0:frequency>492</j.0:frequency>
+    <j.0:lowerBound>-7.171098934000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A42">
+    <j.0:histogram rdf:nodeID="A43"/>
+    <j.0:frequency>22</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A44">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>9.28116793E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A45">
+    <rdf:_8 rdf:nodeID="A46"/>
+    <rdf:_6 rdf:nodeID="A47"/>
+    <rdf:_9 rdf:nodeID="A48"/>
+    <rdf:_3 rdf:nodeID="A49"/>
+    <rdf:_10 rdf:nodeID="A50"/>
+    <rdf:_7 rdf:nodeID="A51"/>
+    <rdf:_5 rdf:nodeID="A52"/>
+    <rdf:_1 rdf:nodeID="A53"/>
+    <rdf:_4 rdf:nodeID="A54"/>
+    <rdf:_2 rdf:nodeID="A55"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A56">
+    <j.0:classes rdf:nodeID="A57"/>
+    <j.0:classSize>4.11684768E8</j.0:classSize>
+    <j.0:upperBound>2.076692346E9</j.0:upperBound>
+    <j.0:lowerBound>-2.040155334E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A58">
+    <j.0:frequency>25288</j.0:frequency>
+    <j.0:lowerBound>1.2840713381999998E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A59">
+    <j.0:histogram rdf:nodeID="A60"/>
+    <j.0:frequency>18</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2000/01/rdf-schema#range"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A61">
+    <j.0:classes rdf:nodeID="A62"/>
+    <j.0:classSize>4.273130486E8</j.0:classSize>
+    <j.0:upperBound>2.135708722E9</j.0:upperBound>
+    <j.0:lowerBound>-2.137421764E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A63">
+    <j.0:frequency>14748</j.0:frequency>
+    <j.0:lowerBound>1.2869101361999998E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A32">
+    <j.0:classes rdf:nodeID="A45"/>
+    <j.0:classSize>4.294951493E8</j.0:classSize>
+    <j.0:upperBound>2.147478855E9</j.0:upperBound>
+    <j.0:lowerBound>-2.147472638E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A64">
+    <j.0:histogram rdf:nodeID="A61"/>
+    <j.0:frequency>39255</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#advisor"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A60">
+    <j.0:classes rdf:nodeID="A65"/>
+    <j.0:classSize>2.200946503E8</j.0:classSize>
+    <j.0:upperBound>1.485610738E9</j.0:upperBound>
+    <j.0:lowerBound>-7.15335765E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A66">
+    <j.0:frequency>1613</j.0:frequency>
+    <j.0:lowerBound>-1.4803076478E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A20">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.66465373E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A67">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>1.1336676796E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A68">
+    <j.0:frequency>7661</j.0:frequency>
+    <j.0:lowerBound>1.8268506E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A69">
+    <j.0:frequency>12</j.0:frequency>
+    <j.0:lowerBound>-1.468444128E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A70">
+    <j.0:histogram rdf:nodeID="A71"/>
+    <j.0:frequency>136871</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#publicationAuthor"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A72">
+    <rdf:_2 rdf:nodeID="A26"/>
+    <rdf:_3 rdf:nodeID="A40"/>
+    <rdf:_8 rdf:nodeID="A73"/>
+    <rdf:_10 rdf:nodeID="A67"/>
+    <rdf:_7 rdf:nodeID="A74"/>
+    <rdf:_4 rdf:nodeID="A22"/>
+    <rdf:_5 rdf:nodeID="A75"/>
+    <rdf:_9 rdf:nodeID="A76"/>
+    <rdf:_6 rdf:nodeID="A77"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_1 rdf:nodeID="A44"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A43">
+    <j.0:classes rdf:nodeID="A78"/>
+    <j.0:classSize>3.12553749E8</j.0:classSize>
+    <j.0:upperBound>1.657093361E9</j.0:upperBound>
+    <j.0:lowerBound>-1.468444129E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A79">
+    <j.0:frequency>748</j.0:frequency>
+    <j.0:lowerBound>4.29953274E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A80">
+    <j.0:frequency>321</j.0:frequency>
+    <j.0:lowerBound>8.41638042E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A81">
+    <j.0:frequency>11</j.0:frequency>
+    <j.0:lowerBound>-3.93416262E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A82">
+    <j.0:frequency>21312</j.0:frequency>
+    <j.0:lowerBound>4.262396293999996E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A57">
+    <rdf:_2 rdf:nodeID="A30"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_4 rdf:nodeID="A83"/>
+    <rdf:_1 rdf:nodeID="A6"/>
+    <rdf:_10 rdf:nodeID="A84"/>
+    <rdf:_7 rdf:nodeID="A68"/>
+    <rdf:_8 rdf:nodeID="A37"/>
+    <rdf:_9 rdf:nodeID="A85"/>
+    <rdf:_5 rdf:nodeID="A86"/>
+    <rdf:_6 rdf:nodeID="A87"/>
+    <rdf:_3 rdf:nodeID="A88"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A89">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.7813528418E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A90">
+    <j.0:frequency>63</j.0:frequency>
+    <j.0:lowerBound>4.276867381999998E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <rdf:_4 rdf:nodeID="A91"/>
+    <rdf:_1 rdf:nodeID="A92"/>
+    <rdf:_3 rdf:nodeID="A93"/>
+    <rdf:_2 rdf:nodeID="A94"/>
+    <rdf:_10 rdf:nodeID="A95"/>
+    <rdf:_6 rdf:nodeID="A9"/>
+    <rdf:_9 rdf:nodeID="A96"/>
+    <rdf:_5 rdf:nodeID="A97"/>
+    <rdf:_8 rdf:nodeID="A98"/>
+    <rdf:_7 rdf:nodeID="A99"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A100">
+    <j.0:frequency>31229</j.0:frequency>
+    <j.0:lowerBound>-1.2894237882E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A101">
+    <j.0:classes rdf:nodeID="A102"/>
+    <j.0:classSize>4.11684768E8</j.0:classSize>
+    <j.0:upperBound>2.076692346E9</j.0:upperBound>
+    <j.0:lowerBound>-2.040155334E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A87">
+    <j.0:frequency>10765</j.0:frequency>
+    <j.0:lowerBound>8.41638042E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A103">
+    <j.0:frequency>12827</j.0:frequency>
+    <j.0:lowerBound>1.7152760451E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A104">
+    <j.0:frequency>6082</j.0:frequency>
+    <j.0:lowerBound>1.5724833697999997E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A105">
+    <j.0:frequency>10</j.0:frequency>
+    <j.0:lowerBound>-1.2602124238E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A19">
+    <j.0:frequency>3</j.0:frequency>
+    <j.0:lowerBound>8.247802935999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A106">
+    <j.0:frequency>11398</j.0:frequency>
+    <j.0:lowerBound>-2.140017135E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A107">
+    <j.0:frequency>58249</j.0:frequency>
+    <j.0:lowerBound>-2.4292075E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A108">
+    <rdf:_6 rdf:nodeID="A109"/>
+    <rdf:_9 rdf:nodeID="A110"/>
+    <rdf:_1 rdf:nodeID="A111"/>
+    <rdf:_2 rdf:nodeID="A112"/>
+    <rdf:_4 rdf:nodeID="A0"/>
+    <rdf:_10 rdf:nodeID="A113"/>
+    <rdf:_7 rdf:nodeID="A114"/>
+    <rdf:_5 rdf:nodeID="A25"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_8 rdf:nodeID="A115"/>
+    <rdf:_3 rdf:nodeID="A116"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A117">
+    <j.0:frequency>20</j.0:frequency>
+    <j.0:lowerBound>-2.040155334E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A118">
+    <j.0:classes rdf:nodeID="A119"/>
+    <j.0:classSize>4.289158544E8</j.0:classSize>
+    <j.0:upperBound>2.141903047E9</j.0:upperBound>
+    <j.0:lowerBound>-2.147255497E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A120">
+    <j.0:frequency>285</j.0:frequency>
+    <j.0:lowerBound>-2.040155334E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A121">
+    <j.0:frequency>2</j.0:frequency>
+    <j.0:lowerBound>1.1624677381999998E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A55">
+    <j.0:frequency>10616</j.0:frequency>
+    <j.0:lowerBound>-2.147472638E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A50">
+    <j.0:frequency>10842</j.0:frequency>
+    <j.0:lowerBound>1.7179837057000003E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A122">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>3.0398879160000014E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A123">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-2.764650049E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A115">
+    <j.0:frequency>517</j.0:frequency>
+    <j.0:lowerBound>1.698758757E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A124">
+    <j.0:frequency>354</j.0:frequency>
+    <j.0:lowerBound>-3.3551101620000005E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A125">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>2.882948425999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A126">
+    <rdf:_9 rdf:nodeID="A66"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_1 rdf:nodeID="A127"/>
+    <rdf:_5 rdf:nodeID="A128"/>
+    <rdf:_4 rdf:nodeID="A129"/>
+    <rdf:_10 rdf:nodeID="A104"/>
+    <rdf:_2 rdf:nodeID="A130"/>
+    <rdf:_8 rdf:nodeID="A39"/>
+    <rdf:_6 rdf:nodeID="A131"/>
+    <rdf:_7 rdf:nodeID="A23"/>
+    <rdf:_3 rdf:nodeID="A132"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A133">
+    <j.0:frequency>74</j.0:frequency>
+    <j.0:lowerBound>1.1908844926E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A134">
+    <j.0:frequency>7</j.0:frequency>
+    <j.0:lowerBound>-4.168947555999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A135">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>7.338736334000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A136">
+    <j.0:frequency>153</j.0:frequency>
+    <j.0:lowerBound>-1.628470566E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A86">
+    <j.0:frequency>12068</j.0:frequency>
+    <j.0:lowerBound>1.25332281E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A137">
+    <j.0:classes rdf:nodeID="A138"/>
+    <j.0:classSize>4.11684768E8</j.0:classSize>
+    <j.0:upperBound>2.076692346E9</j.0:upperBound>
+    <j.0:lowerBound>-2.040155334E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A139">
+    <j.0:frequency>12819</j.0:frequency>
+    <j.0:lowerBound>1812409.5</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A140">
+    <j.0:frequency>10073</j.0:frequency>
+    <j.0:lowerBound>1.2452977364E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A141">
+    <j.0:frequency>2</j.0:frequency>
+    <j.0:lowerBound>5.394326941000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A142">
+    <j.0:frequency>10</j.0:frequency>
+    <j.0:lowerBound>-2.103530092E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A111">
+    <j.0:frequency>369</j.0:frequency>
+    <j.0:lowerBound>4.19107887E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A143">
+    <rdf:_10 rdf:nodeID="A100"/>
+    <rdf:_3 rdf:nodeID="A5"/>
+    <rdf:_9 rdf:nodeID="A144"/>
+    <rdf:_2 rdf:nodeID="A82"/>
+    <rdf:_6 rdf:nodeID="A145"/>
+    <rdf:_1 rdf:nodeID="A58"/>
+    <rdf:_7 rdf:nodeID="A146"/>
+    <rdf:_8 rdf:nodeID="A147"/>
+    <rdf:_4 rdf:nodeID="A33"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_5 rdf:nodeID="A148"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A149">
+    <j.0:frequency>14</j.0:frequency>
+    <j.0:lowerBound>1.8268506E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A119">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_4 rdf:nodeID="A150"/>
+    <rdf:_7 rdf:nodeID="A151"/>
+    <rdf:_2 rdf:nodeID="A152"/>
+    <rdf:_1 rdf:nodeID="A153"/>
+    <rdf:_9 rdf:nodeID="A154"/>
+    <rdf:_6 rdf:nodeID="A155"/>
+    <rdf:_10 rdf:nodeID="A156"/>
+    <rdf:_5 rdf:nodeID="A157"/>
+    <rdf:_8 rdf:nodeID="A158"/>
+    <rdf:_3 rdf:nodeID="A159"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A160">
+    <j.0:histogram rdf:nodeID="A56"/>
+    <j.0:frequency>99566</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#memberOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A161">
+    <rdf:_4 rdf:nodeID="A162"/>
+    <rdf:_7 rdf:nodeID="A163"/>
+    <rdf:_2 rdf:nodeID="A164"/>
+    <rdf:_5 rdf:nodeID="A165"/>
+    <rdf:_9 rdf:nodeID="A166"/>
+    <rdf:_3 rdf:nodeID="A167"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_10 rdf:nodeID="A168"/>
+    <rdf:_8 rdf:nodeID="A122"/>
+    <rdf:_6 rdf:nodeID="A69"/>
+    <rdf:_1 rdf:nodeID="A169"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A170">
+    <j.0:frequency>270</j.0:frequency>
+    <j.0:lowerBound>-8.0510103E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A53">
+    <j.0:frequency>10839</j.0:frequency>
+    <j.0:lowerBound>-4.2949204079999995E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A171">
+    <j.0:frequency>7</j.0:frequency>
+    <j.0:lowerBound>7.919240402999997E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A163">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-8.776331548E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A172">
+    <j.0:frequency>886</j.0:frequency>
+    <j.0:lowerBound>-1.0987087706E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A114">
+    <j.0:frequency>600</j.0:frequency>
+    <j.0:lowerBound>-1.287093273E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A173">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-2.690653908E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A174">
+    <j.0:classes rdf:nodeID="A126"/>
+    <j.0:classSize>3.815988772E8</j.0:classSize>
+    <j.0:upperBound>1.954082247E9</j.0:upperBound>
+    <j.0:lowerBound>-1.861906525E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A175">
+    <j.0:frequency>2</j.0:frequency>
+    <j.0:lowerBound>3.449917548000002E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A176">
+    <j.0:frequency>16507</j.0:frequency>
+    <j.0:lowerBound>8.585442272999997E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A83">
+    <j.0:frequency>5570</j.0:frequency>
+    <j.0:lowerBound>-3.93416262E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A177">
+    <rdf:_1 rdf:nodeID="A134"/>
+    <rdf:_4 rdf:nodeID="A178"/>
+    <rdf:_6 rdf:nodeID="A179"/>
+    <rdf:_10 rdf:nodeID="A180"/>
+    <rdf:_5 rdf:nodeID="A181"/>
+    <rdf:_2 rdf:nodeID="A105"/>
+    <rdf:_3 rdf:nodeID="A142"/>
+    <rdf:_7 rdf:nodeID="A182"/>
+    <rdf:_8 rdf:nodeID="A183"/>
+    <rdf:_9 rdf:nodeID="A184"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A185">
+    <j.0:frequency>368</j.0:frequency>
+    <j.0:lowerBound>-1.216785798E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A99">
+    <j.0:frequency>34426</j.0:frequency>
+    <j.0:lowerBound>-3.3691355979999995E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A153">
+    <j.0:frequency>2062</j.0:frequency>
+    <j.0:lowerBound>1.7129871926E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A186">
+    <j.0:frequency>18</j.0:frequency>
+    <j.0:lowerBound>-8.0510103E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A178">
+    <j.0:frequency>7</j.0:frequency>
+    <j.0:lowerBound>4.264229126000004E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A112">
+    <j.0:frequency>532</j.0:frequency>
+    <j.0:lowerBound>8.45658177E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A54">
+    <j.0:frequency>10305</j.0:frequency>
+    <j.0:lowerBound>3108.5</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A187">
+    <j.0:frequency>100</j.0:frequency>
+    <j.0:lowerBound>-2.103193858E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A188">
+    <j.0:frequency>11942</j.0:frequency>
+    <j.0:lowerBound>4.301783183999996E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-4.9688059520000005E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A189">
+    <j.0:frequency>589</j.0:frequency>
+    <j.0:lowerBound>1.665007578E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A190">
+    <j.0:histogram rdf:nodeID="A101"/>
+    <j.0:frequency>6843</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#worksFor"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A46">
+    <j.0:frequency>10717</j.0:frequency>
+    <j.0:lowerBound>4.294982578000002E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A191">
+    <j.0:frequency>4</j.0:frequency>
+    <j.0:lowerBound>-1.4684441062E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A192">
+    <j.0:frequency>1</j.0:frequency>
+    <j.0:lowerBound>9.361724482000003E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A113">
+    <j.0:frequency>475</j.0:frequency>
+    <j.0:lowerBound>-2.140193853E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A193">
+    <j.0:histogram rdf:nodeID="A194"/>
+    <j.0:frequency>12</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2002/07/owl#intersectionOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A128">
+    <j.0:frequency>4067</j.0:frequency>
+    <j.0:lowerBound>-1.0987087706E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A195">
+    <j.0:histogram rdf:nodeID="A38"/>
+    <j.0:frequency>25</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2000/01/rdf-schema#domain"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A196">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-2.616657767E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A168">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-5.822276681999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A197">
+    <j.0:frequency>1570</j.0:frequency>
+    <j.0:lowerBound>-1.861906525E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A198">
+    <rdf:_1 rdf:nodeID="A185"/>
+    <rdf:_7 rdf:nodeID="A199"/>
+    <rdf:_5 rdf:nodeID="A28"/>
+    <rdf:_10 rdf:nodeID="A80"/>
+    <rdf:_4 rdf:nodeID="A1"/>
+    <rdf:_6 rdf:nodeID="A189"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_2 rdf:nodeID="A136"/>
+    <rdf:_8 rdf:nodeID="A120"/>
+    <rdf:_9 rdf:nodeID="A170"/>
+    <rdf:_3 rdf:nodeID="A200"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A88">
+    <j.0:frequency>9640</j.0:frequency>
+    <j.0:lowerBound>-8.0510103E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A201">
+    <j.0:classes rdf:nodeID="A177"/>
+    <j.0:classSize>4.216588341E8</j.0:classSize>
+    <j.0:upperBound>2.113058249E9</j.0:upperBound>
+    <j.0:lowerBound>-2.103530092E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A49">
+    <j.0:frequency>10765</j.0:frequency>
+    <j.0:lowerBound>8.589934070999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A202">
+    <j.0:frequency>11</j.0:frequency>
+    <j.0:lowerBound>-1.628470566E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A203">
+    <j.0:frequency>14469</j.0:frequency>
+    <j.0:lowerBound>-1.2832853172E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A204">
+    <j.0:frequency>5122</j.0:frequency>
+    <j.0:lowerBound>1.2913387160000038E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.1577110396E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A205">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.0607944492E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://jena.hpl.hp.com/ARQo#PFI">
+    <j.0:exclude rdf:nodeID="A34"/>
+    <j.0:soSize>-1</j.0:soSize>
+    <j.0:ssSize>-1</j.0:ssSize>
+    <j.0:ooSize>-1</j.0:ooSize>
+    <j.0:osSize>-1</j.0:osSize>
+    <j.0:level>0</j.0:level>
+    <j.0:version>0.2</j.0:version>
+    <j.0:resources>207729</j.0:resources>
+    <j.0:size>1273300</j.0:size>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A116">
+    <j.0:frequency>457</j.0:frequency>
+    <j.0:lowerBound>-4.33992693E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A181">
+    <j.0:frequency>13</j.0:frequency>
+    <j.0:lowerBound>4764078.5</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A199">
+    <j.0:frequency>304</j.0:frequency>
+    <j.0:lowerBound>4.29953274E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A48">
+    <j.0:frequency>10648</j.0:frequency>
+    <j.0:lowerBound>-1.2884823394E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A206">
+    <j.0:frequency>1</j.0:frequency>
+    <j.0:lowerBound>-1.4684440334E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A207">
+    <j.0:frequency>1385</j.0:frequency>
+    <j.0:lowerBound>1.5724833697999997E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A131">
+    <j.0:frequency>310</j.0:frequency>
+    <j.0:lowerBound>1.1908844926E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A208">
+    <j.0:frequency>2</j.0:frequency>
+    <j.0:lowerBound>-1.979276777E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A209">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>1.505508155E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A166">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>8583305.0</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A110">
+    <j.0:frequency>665</j.0:frequency>
+    <j.0:lowerBound>-8.60542983E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A210">
+    <j.0:frequency>1407</j.0:frequency>
+    <j.0:lowerBound>1.5724833697999997E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <j.0:classes rdf:nodeID="A198"/>
+    <j.0:classSize>4.11684768E8</j.0:classSize>
+    <j.0:upperBound>2.076692346E9</j.0:upperBound>
+    <j.0:lowerBound>-2.040155334E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A156">
+    <j.0:frequency>2136</j.0:frequency>
+    <j.0:lowerBound>8.551554837999997E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A211">
+    <j.0:histogram rdf:nodeID="A201"/>
+    <j.0:frequency>76</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A212">
+    <j.0:frequency>3804</j.0:frequency>
+    <j.0:lowerBound>-2.172680921E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A213">
+    <rdf:_4 rdf:nodeID="A214"/>
+    <rdf:_7 rdf:nodeID="A215"/>
+    <rdf:_5 rdf:nodeID="A216"/>
+    <rdf:_8 rdf:nodeID="A217"/>
+    <rdf:_9 rdf:nodeID="A218"/>
+    <rdf:_3 rdf:nodeID="A141"/>
+    <rdf:_6 rdf:nodeID="A219"/>
+    <rdf:_10 rdf:nodeID="A209"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_2 rdf:nodeID="A175"/>
+    <rdf:_1 rdf:nodeID="A135"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A220">
+    <j.0:frequency>66</j.0:frequency>
+    <j.0:lowerBound>1.1908844926E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A221">
+    <j.0:frequency>1</j.0:frequency>
+    <j.0:lowerBound>6.052321368000002E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A222">
+    <j.0:histogram rdf:nodeID="A174"/>
+    <j.0:frequency>30862</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#undergraduateDegreeFrom"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A223">
+    <j.0:frequency>21</j.0:frequency>
+    <j.0:lowerBound>4.29953274E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A224">
+    <j.0:frequency>653</j.0:frequency>
+    <j.0:lowerBound>-8.0510103E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A154">
+    <j.0:frequency>1734</j.0:frequency>
+    <j.0:lowerBound>4.262396293999996E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A132">
+    <j.0:frequency>295</j.0:frequency>
+    <j.0:lowerBound>4.276867381999998E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A225">
+    <rdf:_8 rdf:nodeID="A107"/>
+    <rdf:_1 rdf:nodeID="A226"/>
+    <rdf:_5 rdf:nodeID="A227"/>
+    <rdf:_10 rdf:nodeID="A228"/>
+    <rdf:_4 rdf:nodeID="A229"/>
+    <rdf:_9 rdf:nodeID="A140"/>
+    <rdf:_7 rdf:nodeID="A204"/>
+    <rdf:_3 rdf:nodeID="A230"/>
+    <rdf:_6 rdf:nodeID="A187"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_2 rdf:nodeID="A231"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A232">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-7.422307080000019E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A233">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>6.122336454000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A234">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-3.59582763E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A235">
+    <j.0:frequency>1911</j.0:frequency>
+    <j.0:lowerBound>-2.83864619E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A236">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>4.06878365E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A237">
+    <j.0:frequency>1</j.0:frequency>
+    <j.0:lowerBound>-1.4684440854E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <j.0:frequency>4</j.0:frequency>
+    <j.0:lowerBound>-1.818541484E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A47">
+    <j.0:frequency>10744</j.0:frequency>
+    <j.0:lowerBound>-8.589871900999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A238">
+    <j.0:frequency>608</j.0:frequency>
+    <j.0:lowerBound>8.092856154000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A239">
+    <j.0:frequency>2</j.0:frequency>
+    <j.0:lowerBound>-1.4684440542E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A240">
+    <j.0:frequency>6</j.0:frequency>
+    <j.0:lowerBound>-6.902507513000002E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A241">
+    <j.0:classes rdf:nodeID="A72"/>
+    <j.0:classSize>6.85169622E7</j.0:classSize>
+    <j.0:upperBound>1.270701604E9</j.0:upperBound>
+    <j.0:lowerBound>5.85531982E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A182">
+    <j.0:frequency>4</j.0:frequency>
+    <j.0:lowerBound>1.6913994149E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A242">
+    <j.0:classes rdf:nodeID="A143"/>
+    <j.0:classSize>4.289158544E8</j.0:classSize>
+    <j.0:upperBound>2.141903047E9</j.0:upperBound>
+    <j.0:lowerBound>-2.147255497E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A243">
+    <j.0:frequency>26</j.0:frequency>
+    <j.0:lowerBound>1.665007578E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A52">
+    <j.0:frequency>10344</j.0:frequency>
+    <j.0:lowerBound>1.2884885564E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A85">
+    <j.0:frequency>10092</j.0:frequency>
+    <j.0:lowerBound>-2.040155334E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A162">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-2.868221815999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A244">
+    <rdf:_1 rdf:nodeID="A245"/>
+    <rdf:_7 rdf:nodeID="A240"/>
+    <rdf:_3 rdf:nodeID="A121"/>
+    <rdf:_10 rdf:nodeID="A246"/>
+    <rdf:_5 rdf:nodeID="A247"/>
+    <rdf:_2 rdf:nodeID="A205"/>
+    <rdf:_9 rdf:nodeID="A248"/>
+    <rdf:_8 rdf:nodeID="A249"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_6 rdf:nodeID="A250"/>
+    <rdf:_4 rdf:nodeID="A171"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A251">
+    <j.0:histogram rdf:nodeID="A252"/>
+    <j.0:frequency>16</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2002/07/owl#onProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A253">
+    <j.0:frequency>12565</j.0:frequency>
+    <j.0:lowerBound>-4.265534994000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A254">
+    <j.0:frequency>3421</j.0:frequency>
+    <j.0:lowerBound>-1.7101087154E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A215">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-4.389012379999995E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A255">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-2.751464644E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A256">
+    <j.0:frequency>1</j.0:frequency>
+    <j.0:lowerBound>9.1770066E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A257">
+    <j.0:histogram rdf:nodeID="A258"/>
+    <j.0:frequency>189</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2002/07/owl#imports"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A259">
+    <j.0:frequency>20</j.0:frequency>
+    <j.0:lowerBound>8.41638042E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A260">
+    <j.0:frequency>52</j.0:frequency>
+    <j.0:lowerBound>4.276867381999998E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A158">
+    <j.0:frequency>1975</j.0:frequency>
+    <j.0:lowerBound>1.2840713381999998E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A129">
+    <j.0:frequency>4686</j.0:frequency>
+    <j.0:lowerBound>4.6087861E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A226">
+    <j.0:frequency>3780</j.0:frequency>
+    <j.0:lowerBound>-1.7311392364E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A261">
+    <j.0:frequency>6</j.0:frequency>
+    <j.0:lowerBound>-2.122778796E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A262">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.4684441166E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A263">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-6.835215658E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A264">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.15589038E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A265">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-2.394669344E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A266">
+    <j.0:frequency>934</j.0:frequency>
+    <j.0:lowerBound>1.665007578E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A267">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.4684440438E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>1.639498491999998E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A268">
+    <j.0:histogram rdf:nodeID="A241"/>
+    <j.0:frequency>5</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2000/01/rdf-schema#subPropertyOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A249">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>5.08366445E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A269">
+    <j.0:frequency>341</j.0:frequency>
+    <j.0:lowerBound>-1.4803076478E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A270">
+    <j.0:frequency>1</j.0:frequency>
+    <j.0:lowerBound>-1.468444127E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A51">
+    <j.0:frequency>10589</j.0:frequency>
+    <j.0:lowerBound>-1.7179774887E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A179">
+    <j.0:frequency>9</j.0:frequency>
+    <j.0:lowerBound>1.2697405808000002E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A271">
+    <j.0:classes rdf:nodeID="A244"/>
+    <j.0:classSize>3.705436979E8</j.0:classSize>
+    <j.0:upperBound>1.903555134E9</j.0:upperBound>
+    <j.0:lowerBound>-1.801881845E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A272">
+    <j.0:histogram rdf:nodeID="A273"/>
+    <j.0:frequency>3</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2002/07/owl#inverseOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A167">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>8.947997648000002E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A274">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-2.320673203E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A275">
+    <j.0:histogram rdf:nodeID="A276"/>
+    <j.0:frequency>22</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#first"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A219">
+    <j.0:frequency>4</j.0:frequency>
+    <j.0:lowerBound>9.283145727E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A84">
+    <j.0:frequency>11175</j.0:frequency>
+    <j.0:lowerBound>4.29953274E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A95">
+    <j.0:frequency>162354</j.0:frequency>
+    <j.0:lowerBound>8.917065220999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A151">
+    <j.0:frequency>1798</j.0:frequency>
+    <j.0:lowerBound>-2.147255497E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A127">
+    <j.0:frequency>2111</j.0:frequency>
+    <j.0:lowerBound>-7.171098934000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A258">
+    <j.0:classes rdf:nodeID="A277"/>
+    <j.0:classSize>0.0</j.0:classSize>
+    <j.0:upperBound>6.87913894E8</j.0:upperBound>
+    <j.0:lowerBound>6.87913894E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A278">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>1.6504283620000005E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A279">
+    <j.0:frequency>23</j.0:frequency>
+    <j.0:lowerBound>1.25332281E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A280">
+    <j.0:frequency>398</j.0:frequency>
+    <j.0:lowerBound>-3.93416262E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A281">
+    <j.0:classes rdf:nodeID="A282"/>
+    <j.0:classSize>3.815988772E8</j.0:classSize>
+    <j.0:upperBound>1.954082247E9</j.0:upperBound>
+    <j.0:lowerBound>-1.861906525E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A109">
+    <j.0:frequency>506</j.0:frequency>
+    <j.0:lowerBound>1.272208467E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A76">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>7.225659064E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A283">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-2.468665485E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A231">
+    <j.0:frequency>58463</j.0:frequency>
+    <j.0:lowerBound>8.732431148000002E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A284">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.4684440958E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A247">
+    <j.0:frequency>6</j.0:frequency>
+    <j.0:lowerBound>4.213803423999996E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A285">
+    <rdf:_9 rdf:nodeID="A286"/>
+    <rdf:_7 rdf:nodeID="A270"/>
+    <rdf:_1 rdf:nodeID="A287"/>
+    <rdf:_8 rdf:nodeID="A239"/>
+    <rdf:_6 rdf:nodeID="A262"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_2 rdf:nodeID="A237"/>
+    <rdf:_5 rdf:nodeID="A206"/>
+    <rdf:_3 rdf:nodeID="A267"/>
+    <rdf:_10 rdf:nodeID="A284"/>
+    <rdf:_4 rdf:nodeID="A191"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.4881262618E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A288">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.3313991714E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A96">
+    <j.0:frequency>1000</j.0:frequency>
+    <j.0:lowerBound>-7.464535870999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A289">
+    <j.0:histogram rdf:nodeID="A290"/>
+    <j.0:frequency>5294</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#teachingAssistantOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A291">
+    <j.0:frequency>1035</j.0:frequency>
+    <j.0:lowerBound>4.6087861E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A164">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>5.993942782000003E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A216">
+    <j.0:frequency>2</j.0:frequency>
+    <j.0:lowerBound>-6.272129417E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A292">
+    <j.0:frequency>4640</j.0:frequency>
+    <j.0:lowerBound>-8.554826181999998E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A276">
+    <j.0:classes rdf:nodeID="A161"/>
+    <j.0:classSize>2.954054866E8</j.0:classSize>
+    <j.0:upperBound>1.485610738E9</j.0:upperBound>
+    <j.0:lowerBound>-1.468444128E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A293">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-2.542661626E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A273">
+    <j.0:classes rdf:nodeID="A294"/>
+    <j.0:classSize>3.239388028E8</j.0:classSize>
+    <j.0:upperBound>1.260111251E9</j.0:upperBound>
+    <j.0:lowerBound>-1.979276777E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A130">
+    <j.0:frequency>2843</j.0:frequency>
+    <j.0:lowerBound>8.092856154000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A92">
+    <j.0:frequency>2730</j.0:frequency>
+    <j.0:lowerBound>-1.5655336417E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A138">
+    <rdf:_2 rdf:nodeID="A259"/>
+    <rdf:_10 rdf:nodeID="A243"/>
+    <rdf:_7 rdf:nodeID="A149"/>
+    <rdf:_8 rdf:nodeID="A186"/>
+    <rdf:_9 rdf:nodeID="A202"/>
+    <rdf:_1 rdf:nodeID="A279"/>
+    <rdf:_5 rdf:nodeID="A81"/>
+    <rdf:_4 rdf:nodeID="A295"/>
+    <rdf:_3 rdf:nodeID="A223"/>
+    <rdf:_6 rdf:nodeID="A117"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A144">
+    <j.0:frequency>22937</j.0:frequency>
+    <j.0:lowerBound>-4.315920794000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A277">
+    <rdf:_1 rdf:nodeID="A296"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A98">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.1559936144E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A155">
+    <j.0:frequency>2392</j.0:frequency>
+    <j.0:lowerBound>-1.7183396426E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A297">
+    <j.0:frequency>731</j.0:frequency>
+    <j.0:lowerBound>8.41638042E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A282">
+    <rdf:_10 rdf:nodeID="A238"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_3 rdf:nodeID="A172"/>
+    <rdf:_8 rdf:nodeID="A291"/>
+    <rdf:_2 rdf:nodeID="A260"/>
+    <rdf:_4 rdf:nodeID="A124"/>
+    <rdf:_9 rdf:nodeID="A269"/>
+    <rdf:_1 rdf:nodeID="A220"/>
+    <rdf:_5 rdf:nodeID="A207"/>
+    <rdf:_7 rdf:nodeID="A298"/>
+    <rdf:_6 rdf:nodeID="A299"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A300">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.0074603685999999E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A301">
+    <j.0:frequency>10</j.0:frequency>
+    <j.0:lowerBound>-1.468444129E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A302">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-2.246677062E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A230">
+    <j.0:frequency>48770</j.0:frequency>
+    <j.0:lowerBound>-6.149753715999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A303">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>2.672028834000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A200">
+    <j.0:frequency>335</j.0:frequency>
+    <j.0:lowerBound>1.25332281E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A183">
+    <j.0:frequency>4</j.0:frequency>
+    <j.0:lowerBound>-1.6818712579E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A287">
+    <j.0:frequency>3</j.0:frequency>
+    <j.0:lowerBound>-1.468444075E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A250">
+    <j.0:frequency>9</j.0:frequency>
+    <j.0:lowerBound>-1.801881845E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A294">
+    <rdf:_1 rdf:nodeID="A304"/>
+    <rdf:_7 rdf:nodeID="A300"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_10 rdf:nodeID="A288"/>
+    <rdf:_8 rdf:nodeID="A234"/>
+    <rdf:_3 rdf:nodeID="A208"/>
+    <rdf:_4 rdf:nodeID="A192"/>
+    <rdf:_2 rdf:nodeID="A125"/>
+    <rdf:_5 rdf:nodeID="A263"/>
+    <rdf:_6 rdf:nodeID="A233"/>
+    <rdf:_9 rdf:nodeID="A305"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A286">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.4684440646E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A305">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.6553379742E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A21">
+    <j.0:frequency>9</j.0:frequency>
+    <j.0:lowerBound>1.1551955157999997E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A290">
+    <j.0:classes rdf:nodeID="A108"/>
+    <j.0:classSize>4.2655029E8</j.0:classSize>
+    <j.0:upperBound>2.125309047E9</j.0:upperBound>
+    <j.0:lowerBound>-2.140193853E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A306">
+    <j.0:histogram rdf:nodeID="A118"/>
+    <j.0:frequency>20472</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#teacherOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A245">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-3.197070534000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A214">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-4.327720024E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A307">
+    <j.0:frequency>3760</j.0:frequency>
+    <j.0:lowerBound>1.7083956734E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A169">
+    <j.0:frequency>10</j.0:frequency>
+    <j.0:lowerBound>1.1902052514E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A298">
+    <j.0:frequency>456</j.0:frequency>
+    <j.0:lowerBound>-7.171098934000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A229">
+    <j.0:frequency>17010</j.0:frequency>
+    <j.0:lowerBound>5.011884932000003E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A308">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>1.031985863E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A74">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>1.0651507174000001E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A180">
+    <j.0:frequency>6</j.0:frequency>
+    <j.0:lowerBound>-8.385535896999998E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A309">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-7.570749792E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A310">
+    <j.0:frequency>1038</j.0:frequency>
+    <j.0:lowerBound>4.6087861E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A157">
+    <j.0:frequency>2226</j.0:frequency>
+    <j.0:lowerBound>-1.2894237882E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A147">
+    <j.0:frequency>29425</j.0:frequency>
+    <j.0:lowerBound>8.551554837999997E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A296">
+    <j.0:frequency>189</j.0:frequency>
+    <j.0:lowerBound>6.87913894E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A311">
+    <j.0:frequency>12</j.0:frequency>
+    <j.0:lowerBound>1.344539612E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A312">
+    <j.0:histogram rdf:nodeID="A313"/>
+    <j.0:frequency>1</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2002/07/owl#versionInfo"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A65">
+    <rdf:_3 rdf:nodeID="A314"/>
+    <rdf:_6 rdf:nodeID="A278"/>
+    <rdf:_8 rdf:nodeID="A315"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_10 rdf:nodeID="A316"/>
+    <rdf:_5 rdf:nodeID="A255"/>
+    <rdf:_1 rdf:nodeID="A317"/>
+    <rdf:_9 rdf:nodeID="A318"/>
+    <rdf:_7 rdf:nodeID="A319"/>
+    <rdf:_2 rdf:nodeID="A320"/>
+    <rdf:_4 rdf:nodeID="A221"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A94">
+    <j.0:frequency>5484</j.0:frequency>
+    <j.0:lowerBound>-1.975073669E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A102">
+    <rdf:_5 rdf:nodeID="A266"/>
+    <rdf:_2 rdf:nodeID="A321"/>
+    <rdf:_10 rdf:nodeID="A322"/>
+    <rdf:_1 rdf:nodeID="A323"/>
+    <rdf:_3 rdf:nodeID="A324"/>
+    <rdf:_6 rdf:nodeID="A280"/>
+    <rdf:_4 rdf:nodeID="A224"/>
+    <rdf:_7 rdf:nodeID="A297"/>
+    <rdf:_9 rdf:nodeID="A325"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_8 rdf:nodeID="A79"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A326">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.4399268876E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A327">
+    <j.0:histogram rdf:nodeID="A137"/>
+    <j.0:frequency>189</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#headOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A328">
+    <j.0:frequency>3897</j.0:frequency>
+    <j.0:lowerBound>-4.281695695999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A329">
+    <j.0:frequency>13784</j.0:frequency>
+    <j.0:lowerBound>-1.7116512261E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A299">
+    <j.0:frequency>1660</j.0:frequency>
+    <j.0:lowerBound>-1.861906525E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A330">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>9.4324616E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A331">
+    <j.0:classes rdf:nodeID="A332"/>
+    <j.0:classSize>0.0</j.0:classSize>
+    <j.0:upperBound>-2.96957163E8</j.0:upperBound>
+    <j.0:lowerBound>-2.96957163E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A333">
+    <j.0:frequency>4379</j.0:frequency>
+    <j.0:lowerBound>-1.2827956668E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A315">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-5.5051814099999905E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A334">
+    <j.0:classes rdf:nodeID="A335"/>
+    <j.0:classSize>0.0</j.0:classSize>
+    <j.0:upperBound>1.172222442E9</j.0:upperBound>
+    <j.0:lowerBound>1.172222442E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A336">
+    <j.0:frequency>909</j.0:frequency>
+    <j.0:lowerBound>-1.0987087706E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A304">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-3.564396019999981E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A325">
+    <j.0:frequency>412</j.0:frequency>
+    <j.0:lowerBound>-1.628470566E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A337">
+    <j.0:classes rdf:nodeID="A225"/>
+    <j.0:classSize>3.720546216E8</j.0:classSize>
+    <j.0:upperBound>1.617352358E9</j.0:upperBound>
+    <j.0:lowerBound>-2.103193858E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A338">
+    <rdf:_4 rdf:nodeID="A90"/>
+    <rdf:_8 rdf:nodeID="A197"/>
+    <rdf:_9 rdf:nodeID="A210"/>
+    <rdf:_2 rdf:nodeID="A29"/>
+    <rdf:_5 rdf:nodeID="A41"/>
+    <rdf:_3 rdf:nodeID="A4"/>
+    <rdf:_1 rdf:nodeID="A310"/>
+    <rdf:_6 rdf:nodeID="A336"/>
+    <rdf:_10 rdf:nodeID="A133"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_7 rdf:nodeID="A339"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A78">
+    <rdf:_10 rdf:nodeID="A340"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_3 rdf:nodeID="A341"/>
+    <rdf:_2 rdf:nodeID="A342"/>
+    <rdf:_5 rdf:nodeID="A236"/>
+    <rdf:_7 rdf:nodeID="A311"/>
+    <rdf:_9 rdf:nodeID="A343"/>
+    <rdf:_6 rdf:nodeID="A301"/>
+    <rdf:_1 rdf:nodeID="A308"/>
+    <rdf:_4 rdf:nodeID="A264"/>
+    <rdf:_8 rdf:nodeID="A330"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A227">
+    <j.0:frequency>1900</j.0:frequency>
+    <j.0:lowerBound>-1.3590846148E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A344">
+    <j.0:histogram rdf:nodeID="A281"/>
+    <j.0:frequency>6843</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#doctoralDegreeFrom"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A73">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>6.540489442E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A150">
+    <j.0:frequency>1998</j.0:frequency>
+    <j.0:lowerBound>-2676225.0</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A323">
+    <j.0:frequency>913</j.0:frequency>
+    <j.0:lowerBound>-1.216785798E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A317">
+    <j.0:frequency>3</j.0:frequency>
+    <j.0:lowerBound>1.0454214374000001E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A93">
+    <j.0:frequency>1865</j.0:frequency>
+    <j.0:lowerBound>1.7107865767000003E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A146">
+    <j.0:frequency>23372</j.0:frequency>
+    <j.0:lowerBound>-2.147255497E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A228">
+    <j.0:frequency>142</j.0:frequency>
+    <j.0:lowerBound>-9.870299931999998E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A345">
+    <j.0:histogram rdf:nodeID="A346"/>
+    <j.0:frequency>16</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2002/07/owl#someValuesFrom"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A347">
+    <j.0:frequency>8</j.0:frequency>
+    <j.0:lowerBound>9.500547917999997E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A348">
+    <j.0:frequency>3458</j.0:frequency>
+    <j.0:lowerBound>4.264565276000004E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A349">
+    <j.0:frequency>15812</j.0:frequency>
+    <j.0:lowerBound>-8.549194083000002E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A343">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-2.18229133E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A350">
+    <j.0:histogram rdf:nodeID="A334"/>
+    <j.0:frequency>106409</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#telephone"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A319">
+    <j.0:frequency>4</j.0:frequency>
+    <j.0:lowerBound>8.253267871000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A339">
+    <j.0:frequency>345</j.0:frequency>
+    <j.0:lowerBound>-3.3551101620000005E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A351">
+    <j.0:histogram rdf:nodeID="A331"/>
+    <j.0:frequency>1</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2000/01/rdf-schema#comment"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A352">
+    <j.0:histogram rdf:nodeID="A337"/>
+    <j.0:frequency>203609</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#name"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A194">
+    <j.0:classes rdf:nodeID="A285"/>
+    <j.0:classSize>10.4</j.0:classSize>
+    <j.0:upperBound>-1.468444023E9</j.0:upperBound>
+    <j.0:lowerBound>-1.468444127E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A353">
+    <rdf:_9 rdf:nodeID="A274"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_6 rdf:nodeID="A123"/>
+    <rdf:_5 rdf:nodeID="A173"/>
+    <rdf:_2 rdf:nodeID="A235"/>
+    <rdf:_1 rdf:nodeID="A265"/>
+    <rdf:_10 rdf:nodeID="A293"/>
+    <rdf:_8 rdf:nodeID="A196"/>
+    <rdf:_4 rdf:nodeID="A283"/>
+    <rdf:_7 rdf:nodeID="A212"/>
+    <rdf:_3 rdf:nodeID="A302"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A341">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-8.43336631E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A75">
+    <j.0:frequency>4</j.0:frequency>
+    <j.0:lowerBound>1.2021846418000002E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A354">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>6.086288375999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A355">
+    <j.0:classes rdf:nodeID="A338"/>
+    <j.0:classSize>3.815988772E8</j.0:classSize>
+    <j.0:upperBound>1.954082247E9</j.0:upperBound>
+    <j.0:lowerBound>-1.861906525E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A346">
+    <j.0:classes rdf:nodeID="A213"/>
+    <j.0:classSize>1.944409393E8</j.0:classSize>
+    <j.0:upperBound>1.122755512E9</j.0:upperBound>
+    <j.0:lowerBound>-8.21653881E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A145">
+    <j.0:frequency>35331</j.0:frequency>
+    <j.0:lowerBound>-8.605079338000002E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A356">
+    <j.0:frequency>4943</j.0:frequency>
+    <j.0:lowerBound>1.2810826248000002E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A357">
+    <rdf:_1 rdf:nodeID="A256"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A320">
+    <j.0:frequency>6</j.0:frequency>
+    <j.0:lowerBound>-7.15335765E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A321">
+    <j.0:frequency>715</j.0:frequency>
+    <j.0:lowerBound>-2.040155334E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A91">
+    <j.0:frequency>8</j.0:frequency>
+    <j.0:lowerBound>7.26264675E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A159">
+    <j.0:frequency>1843</j.0:frequency>
+    <j.0:lowerBound>-4.315920794000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A218">
+    <j.0:frequency>4</j.0:frequency>
+    <j.0:lowerBound>-2.383310630999999E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A152">
+    <j.0:frequency>2308</j.0:frequency>
+    <j.0:lowerBound>-8.605079338000002E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A358">
+    <rdf:_3 rdf:nodeID="A103"/>
+    <rdf:_6 rdf:nodeID="A139"/>
+    <rdf:_2 rdf:nodeID="A329"/>
+    <rdf:_5 rdf:nodeID="A176"/>
+    <rdf:_8 rdf:nodeID="A203"/>
+    <rdf:_9 rdf:nodeID="A188"/>
+    <rdf:_7 rdf:nodeID="A106"/>
+    <rdf:_4 rdf:nodeID="A63"/>
+    <rdf:_10 rdf:nodeID="A253"/>
+    <rdf:_1 rdf:nodeID="A349"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A340">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>7.19432114E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A248">
+    <j.0:frequency>1</j.0:frequency>
+    <j.0:lowerBound>1.5330114361E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A359">
+    <rdf:_8 rdf:nodeID="A360"/>
+    <rdf:_9 rdf:nodeID="A309"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_3 rdf:nodeID="A89"/>
+    <rdf:_4 rdf:nodeID="A303"/>
+    <rdf:_6 rdf:nodeID="A261"/>
+    <rdf:_2 rdf:nodeID="A326"/>
+    <rdf:_1 rdf:nodeID="A347"/>
+    <rdf:_10 rdf:nodeID="A24"/>
+    <rdf:_5 rdf:nodeID="A232"/>
+    <rdf:_7 rdf:nodeID="A354"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <j.0:frequency>6</j.0:frequency>
+    <j.0:lowerBound>-8.272958174000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A361">
+    <j.0:histogram rdf:nodeID="A271"/>
+    <j.0:frequency>38</j.0:frequency>
+    <j.0:property rdf:resource="http://www.w3.org/2000/01/rdf-schema#subClassOf"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A362">
+    <j.0:frequency>1</j.0:frequency>
+    <j.0:lowerBound>-2.96957163E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A62">
+    <rdf:_1 rdf:nodeID="A363"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+    <rdf:_2 rdf:nodeID="A333"/>
+    <rdf:_9 rdf:nodeID="A356"/>
+    <rdf:_6 rdf:nodeID="A348"/>
+    <rdf:_7 rdf:nodeID="A328"/>
+    <rdf:_8 rdf:nodeID="A364"/>
+    <rdf:_3 rdf:nodeID="A254"/>
+    <rdf:_5 rdf:nodeID="A292"/>
+    <rdf:_10 rdf:nodeID="A10"/>
+    <rdf:_4 rdf:nodeID="A307"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A316">
+    <j.0:frequency>4</j.0:frequency>
+    <j.0:lowerBound>1.2655160877E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A365">
+    <j.0:frequency>106409</j.0:frequency>
+    <j.0:lowerBound>1.172222442E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A36">
+    <j.0:classes rdf:nodeID="A353"/>
+    <j.0:classSize>7399614.1</j.0:classSize>
+    <j.0:upperBound>-2.09868478E8</j.0:upperBound>
+    <j.0:lowerBound>-2.83864619E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A295">
+    <j.0:frequency>25</j.0:frequency>
+    <j.0:lowerBound>-1.216785798E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A360">
+    <j.0:frequency>2</j.0:frequency>
+    <j.0:lowerBound>-1.0985009334E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A184">
+    <j.0:frequency>6</j.0:frequency>
+    <j.0:lowerBound>8.480817467000003E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A77">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>9.966337552E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A366">
+    <j.0:histogram rdf:nodeID="A355"/>
+    <j.0:frequency>6843</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#mastersDegreeFrom"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A342">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-5.30782882E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A313">
+    <j.0:classes rdf:nodeID="A357"/>
+    <j.0:classSize>0.0</j.0:classSize>
+    <j.0:upperBound>9.1770066E7</j.0:upperBound>
+    <j.0:lowerBound>9.1770066E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A148">
+    <j.0:frequency>35491</j.0:frequency>
+    <j.0:lowerBound>-1.7183396426E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A364">
+    <j.0:frequency>3092</j.0:frequency>
+    <j.0:lowerBound>-2.137421764E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A324">
+    <j.0:frequency>508</j.0:frequency>
+    <j.0:lowerBound>1.8268506E7</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A314">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>3.851374865E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A97">
+    <j.0:frequency>2843</j.0:frequency>
+    <j.0:lowerBound>4.821664948000002E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A71">
+    <j.0:classes rdf:nodeID="A358"/>
+    <j.0:classSize>4.283659089E8</j.0:classSize>
+    <j.0:upperBound>2.143641954E9</j.0:upperBound>
+    <j.0:lowerBound>-2.140017135E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A367">
+    <j.0:histogram rdf:nodeID="A242"/>
+    <j.0:frequency>274699</j.0:frequency>
+    <j.0:property rdf:resource="http://swat.cse.lehigh.edu/onto/univ-bench.owl#takesCourse"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A217">
+    <j.0:frequency>2</j.0:frequency>
+    <j.0:lowerBound>-8.21653881E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A165">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-1.1730386414E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A252">
+    <j.0:classes rdf:nodeID="A359"/>
+    <j.0:classSize>3.414259542E8</j.0:classSize>
+    <j.0:upperBound>1.291480746E9</j.0:upperBound>
+    <j.0:lowerBound>-2.122778796E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#Histogram"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A246">
+    <j.0:frequency>7</j.0:frequency>
+    <j.0:lowerBound>-1.4313381471E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A322">
+    <j.0:frequency>831</j.0:frequency>
+    <j.0:lowerBound>1.25332281E9</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A332">
+    <rdf:_1 rdf:nodeID="A362"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <j.0:frequency>3</j.0:frequency>
+    <j.0:lowerBound>4.943650714000001E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A363">
+    <j.0:frequency>3184</j.0:frequency>
+    <j.0:lowerBound>-856521.0</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A335">
+    <rdf:_1 rdf:nodeID="A365"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A318">
+    <j.0:frequency>0</j.0:frequency>
+    <j.0:lowerBound>-4.952411147E8</j.0:lowerBound>
+    <rdf:type rdf:resource="http://jena.hpl.hp.com/ARQo#HistogramClass"/>
+  </rdf:Description>
+</rdf:RDF>
