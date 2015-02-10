@@ -9,7 +9,7 @@ import com.hp.hpl.jena.graph.Triple;
 
 /**
  * 
- * @author kalayci
+ * @author E. Guzel Kalayci
  * 
  */
 public class StockerCostCalculator extends CostCalculator {

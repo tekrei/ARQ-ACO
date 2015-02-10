@@ -9,7 +9,7 @@ import com.hp.hpl.jena.sparql.core.BasicPattern;
 
 /**
  * 
- * @author kalayci
+ * @author E. Guzel Kalayci
  * 
  */
 public class VCEstimator {

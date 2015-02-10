@@ -13,7 +13,7 @@ import arqaco.utility.SWANTLogger;
 
 /**
  * 
- * @author kalayci
+ * @author E. Guzel Kalayci
  * 
  */
 public class TransformParameters {

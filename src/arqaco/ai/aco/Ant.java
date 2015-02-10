@@ -2,7 +2,7 @@ package arqaco.ai.aco;
 
 /**
  * 
- * @author kalayci
+ * @author E. Guzel Kalayci
  * 
  */
 public class Ant implements Cloneable {
@@ -22,12 +22,8 @@ public class Ant implements Cloneable {
 	public int joinCount;
 
 	/**
-	 * Constructor.
-	 * 
-	 * @param graphSize
-	 *            Karincanin dolasacagi graphin buyuklugu
-	 * @param startPos
-	 *            Karincanin graphi dolamaya baslayacagi nokta indexi
+	 * @param graphSize size of the graph that ant traverse
+	 * @param startPos beginning position of the ant
 	 */
 	public Ant(int graphSize, int startPos, boolean rndAnt) {
 		path = new int[graphSize];
@@ -36,18 +32,10 @@ public class Ant implements Cloneable {
 		initPath();
 	}
 
-	/**
-	 * Method getPosition. Karincanin hangi yerde olduunu dndrr
-	 * 
-	 * @return int
-	 */
 	public int getPosition() {
 		return path[pathIndex - 1];
 	}
 
-	/**
-	 * Method initPath. Karincayi yolun basina alir ve path array'ini sifirlar
-	 */
 	public void initPath() {
 		for (int i = 0; i < path.length; i++) {
 			path[i] = INITVALUE;
@@ -61,24 +49,11 @@ public class Ant implements Cloneable {
 		pathcost = 0.0;
 	}
 
-	/**
-	 * Method moveTo. gidilen yeri path array'ine ekleyip index'i arttrr
-	 * 
-	 * @param loc
-	 *            gidilecek yerin index bilgisi
-	 */
 	public void moveTo(int loc) {
 		path[pathIndex] = loc;
 		pathIndex++;
 	}
 
-	/**
-	 * Method visited. Eger loc ile parametre olarak geirilen yer daha nce
-	 * ziyaret edilmi ise true aksi halde false dndrrlr
-	 * 
-	 * @param loc
-	 * @return boolean
-	 */
 	public boolean visited(int loc) {
 		boolean visited = false;
 		for (int i = 0; i < path.length; i++) {

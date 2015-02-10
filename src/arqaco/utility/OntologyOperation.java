@@ -57,9 +57,12 @@ import com.hp.hpl.jena.util.FileManager;
 import com.hp.hpl.jena.util.iterator.ExtendedIterator;
 
 /**
- * 
+ * All ontology/data operations are performed using
+ * this class
+ *  
  * @author E. Guzel Kalayci
  */
+
 public class OntologyOperation {
 
 	private static OntModel model;

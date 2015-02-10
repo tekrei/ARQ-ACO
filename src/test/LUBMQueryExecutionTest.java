@@ -11,7 +11,8 @@ import arqaco.utility.OntologyOperation;
 import arqaco.utility.SWANTLogger;
 
 /**
- * Class to test if query is loaded and executed correctly
+ * Class to test individual or specific queries
+ * required for the article
  * 
  * @author E. Guzel Kalayci
  * 
@@ -28,6 +29,9 @@ public class LUBMQueryExecutionTest {
 		ontologySize();
 	}
 
+	/**
+	 * Method to find the query size
+	 */
 	private static void ontologySize() {
 		SWANTLogger
 				.severen("Ontology size:"
@@ -35,6 +39,7 @@ public class LUBMQueryExecutionTest {
 								.loadQueryFromFile("queries/article/rdfSize.qr").query).resultCount);
 	}
 
+	@SuppressWarnings("unused")
 	private static void stockerTimeTest() {
 		OntologyOperation
 				.executeQuery(OntologyOperation

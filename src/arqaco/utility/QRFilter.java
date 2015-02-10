@@ -5,6 +5,8 @@ import java.io.File;
 import javax.swing.filechooser.FileFilter;
 
 /**
+ * File filter for project specific query file
+ * with *.qr extension
  * 
  * @author E. Guzel Kalayci
  * 

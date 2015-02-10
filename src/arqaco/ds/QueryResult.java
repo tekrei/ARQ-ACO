@@ -4,14 +4,13 @@ import java.util.ArrayList;
 
 /**
  * 
- * @author kalayci
+ * @author E. Guzel Kalayci
  * 
  */
 public class QueryResult {
 	public String type;
 	public ArrayList<String> results;
 	public String query;
-	// public String resultAsString;
 	public long time;
 	public int resultCount;
 

@@ -2,7 +2,7 @@ package arqaco.ds;
 
 /**
  * 
- * @author kalayci
+ * @author E. Guzel Kalayci
  * 
  */
 public class Constants {

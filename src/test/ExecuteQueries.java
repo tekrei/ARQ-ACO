@@ -19,6 +19,8 @@ import arqaco.utility.SWANTLogger;
 import com.hp.hpl.jena.sparql.algebra.Transform;
 
 /**
+ * This class automates query execution
+ * for different experiments
  * 
  * @author E. Guzel Kalayci
  * 

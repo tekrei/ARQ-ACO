@@ -11,7 +11,7 @@ import com.hp.hpl.jena.graph.Triple;
 
 /**
  * 
- * @author kalayci
+ * @author E. Guzel Kalayci
  * 
  */
 public class ModifiedStockerCostCalculator extends CostCalculator {
@@ -134,7 +134,7 @@ public class ModifiedStockerCostCalculator extends CostCalculator {
 		if (triple1.objectMatches(triple2.getObject()))
 			return true;
 		if (triple1.predicateMatches(triple2.getPredicate())) {
-			// FIX by Elem Guzel KALAYCI 10.06.2012
+			// CHANGE by Elem Guzel KALAYCI 10.06.2012
 			if (triple1.getPredicate().getLocalName().equals("type")
 					|| triple1.getPredicate().getLocalName()
 							.equals("subClassOf"))

@@ -8,6 +8,7 @@ import arqaco.utility.SWANTLogger;
 
 /**
  * Class for LUBM experiments
+ * for the article
  * 
  * @author E. Guzel Kalayci
  * 

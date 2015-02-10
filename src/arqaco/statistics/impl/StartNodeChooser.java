@@ -2,7 +2,7 @@ package arqaco.statistics.impl;
 
 /**
  * 
- * @author kalayci
+ * @author E. Guzel Kalayci
  * 
  */
 public class StartNodeChooser {

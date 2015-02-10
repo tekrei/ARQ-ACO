@@ -11,6 +11,7 @@ import java.util.logging.LogRecord;
 import java.util.logging.Logger;
 
 /**
+ * Logger for the project
  * 
  * @author E. Guzel Kalayci
  * 

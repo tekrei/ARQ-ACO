@@ -5,7 +5,7 @@ import arqaco.ai.ds.TPV;
 
 /**
  * 
- * Ant System algorithm developed by Marco Dorigo
+ * Ant System algorithm proposed by Marco Dorigo
  * 
  * @author E. Guzel Kalayci
  */
@@ -24,15 +24,6 @@ public class AntSystem extends AntColonyOptimization {
 		return executeAlgorithm(parts, -1);
 	}
 
-	/**
-	 * Algoritmanin calistirildigi ana method
-	 * 
-	 * @param parts
-	 *            parts to optimize
-	 * @param startPos
-	 *            starting position for ants, give -1 for random start position
-	 * @return solution path
-	 */
 	@Override
 	public int[] executeAlgorithm(TPV parts, int start) {
 		ACOParameters.graphSize = parts.size();
@@ -53,18 +44,6 @@ public class AntSystem extends AntColonyOptimization {
 		return solutionPath;
 	}
 
-	/**
-	 * Method pheromenDeposit.
-	 * 
-	 * karincanin tur sonunda uzerinden gectigi yerlere feromon depolamasini
-	 * saglar
-	 * 
-	 * depolama islemi maliyet bilgisine gore olup her gecilen noktaya Q/cost
-	 * kadar feromon birakilir. Q ozel bir parametredir
-	 * 
-	 * @param z
-	 *            Turunu tamamlayan karinca
-	 */
 	@Override
 	protected void pheromenDeposit(Ant z) {
 		for (int i = 0; i < z.path.length - 1; i++) {
@@ -76,13 +55,6 @@ public class AntSystem extends AntColonyOptimization {
 		}
 	}
 
-	/**
-	 * Method initAntz. Karincalarin herbirisi graph'daki baslangic noktalari
-	 * verilerek ilklenir
-	 * 
-	 * @param startPos
-	 *            karincanin baslangic noktasi
-	 */
 	@Override
 	protected void initAntz(int startPos) {
 		int rndPopSize = ACOParameters.populationSize;
@@ -109,13 +81,6 @@ public class AntSystem extends AntColonyOptimization {
 		return random(0, ACOParameters.graphSize);
 	}
 
-	/**
-	 * Method updateSystem. Turunu tamamlayan tum karincalarin cevreye etkisini
-	 * (feromon birakma) ve siralamanin guncellenmesini saglar
-	 * 
-	 * @param _antz
-	 *            turlarini tamamlayan karinca kolonisi
-	 */
 	@Override
 	protected void updateSystem() {
 		evaporate();
@@ -127,15 +92,6 @@ public class AntSystem extends AntColonyOptimization {
 		}
 	}
 
-	/**
-	 * Method getNextCity karincanin belli bir olasilik dahilinde hareket
-	 * edecegi noktayi dondurur olasilik formulu P = antProduct(from/to) /
-	 * Toplam(ziyaret edilmemi sehirler)*(antProduct(from/to(i)))
-	 * 
-	 * @param z
-	 * @param graph
-	 * @return secilen noktanin indis bilgisi
-	 */
 	@Override
 	protected int getNextCity(Ant z, TPV graph) {
 		int from, to;
@@ -195,14 +151,6 @@ public class AntSystem extends AntColonyOptimization {
 		return selectedcity;
 	}
 
-	/**
-	 * Method evaporate. Karincalarin turu sonunda yollar uzerinde buharlastirma
-	 * islemi yapar
-	 * 
-	 * Buharlastirma islemi p ile verilen orana gore gerceklestirilir
-	 * 
-	 * p degeri 0.0 ile 1.0 araliginda olmalidir
-	 */
 	@Override
 	protected void evaporate() {
 
@@ -215,16 +163,6 @@ public class AntSystem extends AntColonyOptimization {
 		}
 	}
 
-	/**
-	 * Method antProduct. Ant System algoritmasindaki olasilik formulunun bir
-	 * parcasidir
-	 * 
-	 * @param from
-	 *            nereden
-	 * @param to
-	 *            nereye
-	 * @return carpim sounucu
-	 */
 	@Override
 	protected double antProduct(Ant z, int from, int to) {
 		return (Math.pow(phero[from][to], ACOParameters.alpha) * Math.pow(

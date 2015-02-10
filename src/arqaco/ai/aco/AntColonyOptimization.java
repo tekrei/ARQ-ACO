@@ -48,13 +48,6 @@ public abstract class AntColonyOptimization implements Optimization {
 		random = new Random();
 	}
 
-	/**
-	 * Method updateSolPath. Eger karincanin attigi tur o ana kadar ki en iyi
-	 * turdan daha iyi ise bu karincanin turu en iyi tur olarak gunceller
-	 * 
-	 * @param z
-	 *            Turunu tamamlayan karinca
-	 */
 	protected void updateSolPath(Ant z) {
 		if ((solcost > z.pathcost) || (solcost == 0.0)) {
 			for (int i = 0; i < z.path.length; i++) {
@@ -64,13 +57,6 @@ public abstract class AntColonyOptimization implements Optimization {
 		}
 	}
 
-	/**
-	 * Method calculateAntTravelCost. Parametre olarak getirilen karincanin
-	 * attigi turun maliyetini geri dondurur.
-	 * 
-	 * @param z
-	 *            Turunu tamamlayan karinca
-	 */
 	protected void calculateAntTravelCost(Ant z) {
 		double cost = 0;
 		for (int i = 0; i < z.path.length - 1; i++) {
@@ -112,26 +98,10 @@ public abstract class AntColonyOptimization implements Optimization {
 		return joinCount;
 	}
 
-	/**
-	 * min dahil max haric aralikta rastgele sayi uretir
-	 * 
-	 * @param min
-	 *            alt sinir
-	 * @param max
-	 *            ust sinir
-	 * @return rastsal sayi
-	 */
 	public static int random(int min, int max) {
 		return min + (int) (Math.random() * max);
 	}
 
-	/**
-	 * Method initSystem. Dolasilacak ortami ilkler maliyetleri hesapliyor
-	 * feromon miktarini ilkliyor
-	 * 
-	 * @param parts
-	 *            :join edilecek triplepatternler
-	 */
 	protected void initSystem(TPV parts) {
 		tp = parts;
 		this.costs = parts.cost;
@@ -140,22 +110,9 @@ public abstract class AntColonyOptimization implements Optimization {
 		}
 	}
 
-	/**
-	 * Method executeAlgorithm. Algoritmanin calistirildigi ana method
-	 * 
-	 * @param parts
-	 *            tripe pattern vektoru
-	 * @param startPos
-	 * @param endPos
-	 * @return sonuc dizisi
-	 */
 	@Override
 	public abstract int[] executeAlgorithm(TPV parts);
 
-	/**
-	 * @param z
-	 *            Turunu tamamlayan karinca
-	 */
 	protected abstract void pheromenDeposit(Ant z);
 
 	protected abstract void initAntz(int startPos);
